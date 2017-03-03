@@ -27,6 +27,7 @@
         
         %>
     <body>
+        <style>  p{color:blue}</style>  
         <h1>Salary Information</h1>
         <table border="1">
             <tbody>
